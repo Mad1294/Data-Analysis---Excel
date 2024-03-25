@@ -10,6 +10,14 @@ The objective is to understand the trends, patterns, and insights from the bike 
 3. **Pivot Tables**: Includes pivot tables created to summarize and analyze the data.
 4. **Dashboard**: Shows visual representations and key insights derived from the data analysis.
 
+## Research Question
+In this analysis, we focus on finding and analyzing the following questions:
+
+1. Are there any significant differences in bike purchase behavior between males and females?
+2. What is the relationship between distance and bike purchase? Do individuals living closer to biking facilities or urban areas tend to purchase bikes more frequently?
+3. Are there specific age demographics that are more inclined towards purchasing bikes?
+
+
 ## How to Use
 1. **Download the Excel Workbook**:
    - Clone or download the Excel workbook from the GitHub repository to your local machine.
